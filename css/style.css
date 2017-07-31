@@ -3,6 +3,10 @@ html, body {
     padding: 0;
 }
 
+body {
+    font-family: 'Cuprum', sans-serif;
+}
+
 #container {
     margin: 0 auto;
     width: auto;
